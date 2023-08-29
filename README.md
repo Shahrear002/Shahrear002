@@ -1,4 +1,4 @@
-### Hi there 👋 This is Shahrear Rahman
+### Hi 👋 This is Shahrear Rahman
 
 <!--
 **Shahrear002/Shahrear002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
