@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Shahrear002/Class_Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrear002&repo=Class_Assistant&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Shahrear002/starwar_movie_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrear002&repo=starwar_movie_app&theme=buefy" />
 </a>
