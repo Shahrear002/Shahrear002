@@ -1,4 +1,15 @@
 ### Hi 👋 This is Shahrear Rahman
+<br />
+
+I'm a passionate Software Engineer who loves to solve problems.
+
+**About Me**
+
+- 💼 Assistant Software Engineer at [CNS Limited](https://site.cnsbd.com/)
+
+- 🔭 I’m currently working on [Java,]() [Spring,]() [Springboot,]() [OracleDB,]() [PL/SQL]()
+
+- 💬 Reach me at [shahrear002@gmail.com](shahrear002@gmail.com)
 
 <!--
 **Shahrear002/Shahrear002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +26,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahrear002&show_icons=true&theme=transparent)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrear002)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahrear002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrear002&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrear002&repo=Class_Assistant&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrear002&repo=starwar_movie_app&theme=buefy" />
+</a>
