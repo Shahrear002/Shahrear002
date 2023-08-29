@@ -9,7 +9,7 @@ I'm a passionate Software Engineer who loves to solve problems.
 
 - 🔭 I’m currently working on **Java, Spring, Springboot, OracleDB, PL/SQL, Ajax, JQuery**
 
-- ❤️ I love **Javascript, NodeJS, ExpressJS, MongoDB, MySQL**
+- ❤️ Love to work with **Javascript, NodeJS, ExpressJS, MongoDB, MySQL**
 
 - 💬 Reach me at [shahrear002@gmail.com](shahrear002@gmail.com)
 
