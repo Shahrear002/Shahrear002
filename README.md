@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahrear002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrear002&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahrear002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrear002&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
 
-
+<!--
 <a href="https://github.com/Shahrear002/Class_Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrear002&repo=Class_Assistant&theme=buefy" />
 </a>
 <a href="https://github.com/Shahrear002/starwar_movie_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shahrear002&repo=starwar_movie_app&theme=buefy" />
-</a>
+</a> -->
