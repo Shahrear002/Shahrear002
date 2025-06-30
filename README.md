@@ -5,7 +5,7 @@ I'm a passionate Software Engineer who loves to solve problems.
 
 **About Me**
 
-- 💼 Assistant Software Engineer at [CNS Limited](https://site.cnsbd.com/)
+- 💼 Software Engineer at [CNS Limited](https://site.cnsbd.com/)
 
 - 🔭 I’m currently working on **Java, Spring, Springboot, OracleDB, PL/SQL, Ajax, JQuery**
 
