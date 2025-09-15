@@ -13,6 +13,8 @@ I'm a passionate Software Engineer who loves to solve problems.
 
 - 💬 Reach me at [shahrear002@gmail.com](shahrear002@gmail.com)
 
+- :globe_with_meridians: Visit here [shahrear.me](https://shahrear.me)
+
 <!--
 **Shahrear002/Shahrear002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
